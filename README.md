@@ -75,7 +75,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * This should download a zipped folder with a name like `AI Workshop-20250220T171842Z-001.zip`.
   * Extract the zip file into a folder with a name like `AI Workshop-20250220T171842Z-001`.
-  * Inside the `AI Workshop-20250220T171842Z-001` folder there should be a subfolder named AI Workshop.
+  * Inside the `AI Workshop-20250220T171842Z-001` folder there should be a subfolder named `AI Workshop`.
   * Upload the subfolder (`AI Workshop-20250220T171842Z-001/AI Workshop`) to your own Google drive.
 
 * The structure of the folder should look like:
