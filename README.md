@@ -73,7 +73,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Code Instructions
 
-* Download the entire class materials folder from the following URL: https://drive.google.com/drive/folders/17aP3EhWWSho7p1CH7NCrwCIhh7GYOHbR?usp=sharing.
+* Download the entire class materials folder from the following URL: `https://drive.google.com/drive/folders/17aP3EhWWSho7p1CH7NCrwCIhh7GYOHbR?usp=sharing`.
   * Beside the name of the `AI Workshop` folder click the small triangle.
   * Click Download.
 
