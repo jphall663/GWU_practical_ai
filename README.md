@@ -70,6 +70,10 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Session 4: Large Language Models
 
+![An illustration of retrieval augmented generation (RAG).](img/rag.png)
+
+<sub><sup>An illustration of retrieval augmented generation (RAG). **Source:** Session 4 notes.</sup></sub>
+
 ### Session 4 Materials
 
 * [Lecture Notes]()
