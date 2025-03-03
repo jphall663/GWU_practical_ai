@@ -40,7 +40,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * [Lecture Notes]()
 * [Software Example]()
-* [Assignment 1]()
+* [Assignment 2]()
 * Reading: 
   
 ***
@@ -51,7 +51,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * [Lecture Notes]()
 * [Software Example]()
-* [Assignment 1]()
+* [Assignment 3]()
 * Reading: 
 
 ***   
@@ -62,7 +62,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * [Lecture Notes]()
 * [Software Example]()
-* [Assignment 1]()
+* [Assignment 4]()
 * Reading:
 
 ***
