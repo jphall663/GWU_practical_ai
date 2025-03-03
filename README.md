@@ -88,7 +88,7 @@ AI Workshop
 └── 04_LLM_Materials
 ```
 
-* If the Google Colab (Collaboratory) app is not installed, install it by clicking Open With and Connect more apps. 
+* If the Google Colab (Collaboratory) app is not installed, install it by clicking `Open With` and `Connect more apps`. 
 
 * In the top cells of most notebooks, you should notice a command like: `%cd /content/drive/MyDrive/AI_Workshop/01_Regression_Materials/`
   * If that is not the right folder for your Drive, use %ls and %cd to find the right path.
