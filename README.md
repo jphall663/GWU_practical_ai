@@ -67,9 +67,11 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ### Session 3 Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1SSYBn3WrEGh9fM5e4LuQsxr_ALYxdyuv/edit?usp=sharing)
-* [Software Example]()
-* [Assignment 3]()
-* Reading: 
+* [Software Example](https://drive.google.com/file/d/17lXz7t8YQcoqT0TRm1TAyyWV-yAvz2R_/view?usp=sharing)
+* Assignment 3
+  * [Worksheet](https://docs.google.com/document/d/1VU7wprJM_7m28VmVe7R016kyDoPAThlt/edit?usp=sharing)
+  * [Notebook](https://drive.google.com/file/d/15UTmI7JhZFQjeilXS84MDiIMKLeRdjPN/view?usp=sharing)
+* Reading: [_Deep Learning_](https://www.deeplearningbook.org/), [Chapter 9](https://www.deeplearningbook.org/contents/convnets.html)
 
 ***   
 
