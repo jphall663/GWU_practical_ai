@@ -13,7 +13,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Preliminary Materials
 
- * [Syllabus]()
+ * **Syllabus**
  * [Basic Data Manipulation](https://github.com/jphall663/GWU_data_mining/blob/master/01_basic_data_prep/01_basic_data_prep.md)
  * [Primer on Technical Malpractice](https://docs.google.com/presentation/d/1cZeaoIp4cQsVY_gj2a5Pg7ygexepQZRS-ZEn6n2QqEU/edit?usp=sharing)
  * [Whiteboard Notation](https://docs.google.com/presentation/d/1Axf9dizaE3XvGRelBHfsnAlMUPFuMExQ2WNVwQBKMrw/edit?usp=sharing)
@@ -84,9 +84,11 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ### Session 4 Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1nFoo5lRV0B8mT50l0KYYvKPQLuf0F5pA/edit?usp=sharing)
-* [Software Example]()
-* [Assignment 4]()
-* Reading:
+* [Software Example](https://drive.google.com/drive/folders/1RYp-8NrfFertcqOmrq9KHcUQY9lC_Mg4?usp=sharing)
+* **Assignment 4**
+  * **Worksheet**
+  * **Notebook** 
+* **Reading**
 
 ***
 
