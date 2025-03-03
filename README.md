@@ -46,7 +46,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Session 2 Materials
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/presentation/d/1-XweHER3tbVwQFuRxX3mAHol5QYGQpJI/edit?usp=sharing)
 * [Software Example]()
 * [Assignment 2]()
 * Reading: 
