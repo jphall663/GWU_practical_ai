@@ -40,7 +40,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Session 2: Artificial Neural Networks (ANNs) for Structured Data 
 
-![A very simple autoencoder network.](img/ae.png)
+<img src="img/ae.png" width="200">
 
 <sub><sup>A very simple autoencoder network. **Source:** Session 2 notes.</sup></sub>
 
