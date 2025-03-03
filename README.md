@@ -22,10 +22,12 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Session 1 Materials
 
-* [Lecture Notes]()
-* [Software Example]()
+* [Lecture Notes](https://docs.google.com/presentation/d/1JVTu_mR_wEoFX66mpy5VxckZLSlaPr8D/edit?usp=sharing&ouid=102464801992802063798&rtpof=true&sd=true)
+* [Software Example]
 * [Assignment 1]()
-* Reading: 
+* Reading:
+  * [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/), Sections 3.1 - 3.4, Section 4.4
+  * [Regularization and variable selection via the elastic net](https://hastie.su.domains/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)
 
 ***
 
