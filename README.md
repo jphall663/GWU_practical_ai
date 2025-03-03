@@ -55,6 +55,10 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Session 3: ANNs for Computer Vision
 
+![An illustration of image convolution.](img/conv.png)
+
+<sub><sup>An illustration of image convolution. **Source:** Session 3 notes, with thanks to Wen Phan.</sup></sub>
+
 ### Session 3 Materials
 
 * [Lecture Notes]()
