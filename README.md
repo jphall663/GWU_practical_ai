@@ -66,7 +66,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Session 3 Materials
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/presentation/d/1SSYBn3WrEGh9fM5e4LuQsxr_ALYxdyuv/edit?usp=sharing)
 * [Software Example]()
 * [Assignment 3]()
 * Reading: 
@@ -81,7 +81,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Session 4 Materials
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/presentation/d/1nFoo5lRV0B8mT50l0KYYvKPQLuf0F5pA/edit?usp=sharing)
 * [Software Example]()
 * [Assignment 4]()
 * Reading:
