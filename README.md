@@ -91,14 +91,14 @@ AI Workshop
 * If the Google Colab (Collaboratory) app is not installed, install it by clicking `Open With` and `Connect more apps`. 
 
 * In the top cells of most notebooks, you should notice a command like: `%cd /content/drive/MyDrive/AI_Workshop/01_Regression_Materials/`
-  * If that is not the right folder for your Drive, use %ls and %cd to find the right path.
+  * If that is not the right folder for your Drive, use `%ls` and `%cd` to find the right path.
   * Generally, if this step fails, go to the `Runtime` menu and `Restart Session`. 
 
-* Run code examples by running each cell in order or by going to the Runtime menu and choosing Run All.
-  * All the Colab notebooks should run without errors after updating the path in the first cell.
+* Run code examples by running each cell in order or by going to the `Runtime` menu and choosing `Run All`.
+  * All the Colab example notebooks should run without errors after updating the path in the first cell.
   * When prompted, allow Colab to connect to your Google drive.
 
-* To run the last session notebook (`RAG_query.ipynb`), you will need an access token from HuggingFace.co.
+* To run the last session notebook (`RAG_query.ipynb`), you will need an access token from `HuggingFace.co`.
   * Create a free Hugging Face account (`https://huggingface.co/`).
   * Generate an access token (`Profile` -> `Access Tokens`).
   * Preserve the text of the token somewhere secure, as you may not be able to see it again after it is granted.
