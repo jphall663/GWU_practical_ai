@@ -42,7 +42,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 <img src="https://github.com/jphall663/GWU_ML/raw/main/img/ae.png" width="300">
 
-<sub><sup>**Source:** Session 2 notes.</sup></sub><img 
+<sub><sup>**Source:** Session 2 notes.</sup></sub>
 
 ### Session 2 Materials
 
