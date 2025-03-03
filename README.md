@@ -23,7 +23,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ![Trace plot for a simple elastic net model.](img/trace.png)
 
-<sub><sup>**Source:** Assignment 1.</sup></sub>
+<sub><sup>Trace plot for a simple elastic net model. **Source:** Assignment 1.</sup></sub>
 
 ### Session 1 Materials
 
@@ -40,9 +40,9 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Session 2: Artificial Neural Networks (ANNs) for Structured Data 
 
-<img src="https://github.com/jphall663/GWU_ML/raw/main/img/ae.png" width="300">
+![A very simple autoencoder network.](img/ae.png)
 
-<sub><sup>**Source:** Session 2 notes.</sup></sub>
+<sub><sup>A very simple autoencoder network. **Source:** Session 2 notes.</sup></sub>
 
 ### Session 2 Materials
 
