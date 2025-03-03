@@ -33,7 +33,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * [Worksheet](https://docs.google.com/document/d/1qwrEl1vztt_NrtCHXQkYrL_C0Ih9PyuU/edit?usp=sharing&ouid=102464801992802063798&rtpof=true&sd=true)
   * [Notebook](https://drive.google.com/file/d/16gq6Bu74DTkIFnaDr3rJp69ebm8Q-1UN/view?usp=sharing)
 * Reading:
-  * [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/), Sections 3.1 - 3.4, Section 4.4
+  * [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 3.1 - 3.4, Section 4.4
   * [Regularization and variable selection via the elastic net](https://hastie.su.domains/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)
 
 ***
@@ -47,10 +47,15 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ### Session 2 Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1-XweHER3tbVwQFuRxX3mAHol5QYGQpJI/edit?usp=sharing)
-* [Software Example]()
-* [Assignment 2]()
-* Reading: 
-  
+* Software Examples:
+  * [MLP with simple gradient descent on Sonar data](https://drive.google.com/file/d/1qlw81JovHGBq-ShnxlBAZzEriRSjpEsL/view?usp=sharing)
+  * [Basic MLP Usage Example](https://github.com/jphall663/GWU_data_mining/blob/master/05_neural_networks/src/py_part_5_basic_mlp_example.ipynb)
+  * [MNIST Autoencoder Usage Example](https://github.com/jphall663/GWU_data_mining/blob/master/05_neural_networks/src/py_part_5_MNIST_autoencoder.ipynb)
+* Assignment 2
+  * [Worksheet](https://docs.google.com/document/d/19EuGMlMprcykcJz0cXd6gX19WBv06aHw/edit?usp=sharing)
+  * [Notebook](https://drive.google.com/file/d/1GTALUAAdWl2qmJpSquABEzWUz9WNQWH_/view?usp=sharing)
+* Reading: [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 11.3 - 11.7
+
 ***
 
 ## Session 3: ANNs for Computer Vision
