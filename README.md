@@ -23,7 +23,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ![Trace plot for a simple elastic net model.](img/trace.png)
 
-<sub><sup>**Source:** [From GLM to GBM: Building the Case For Complexity](https://nbviewer.org/github/jphall663/interpretable_machine_learning_with_python/blob/master/glm_mgbm_gbm.ipynb).</sup></sub>
+<sub><sup>**Source:** Assignment 1.</sup></sub>
 
 ### Session 1 Materials
 
@@ -39,6 +39,10 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ***
 
 ## Session 2: Artificial Neural Networks (ANNs) for Structured Data 
+
+<img src="https://github.com/jphall663/GWU_ML/raw/main/img/ae.png" width="300">
+
+<sub><sup>**Source:** Session 2 notes.</sup></sub><img 
 
 ### Session 2 Materials
 
