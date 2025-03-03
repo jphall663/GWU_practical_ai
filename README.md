@@ -1,6 +1,6 @@
-## GWU_DNSC 6330: Course Outline
+## GWU_DNSC 6290: Course Outline
 
-Materials for a technical, nuts-and-bolts course about increasing transparency, fairness, robustness, and security in machine learning.
+MSBA elective workshop on AI, from logistic regression to LLMs.
 
 * Session 1: Penalized Regression
 * Session 2: Artificial Neural Networks (ANNs) for Structured Data 
