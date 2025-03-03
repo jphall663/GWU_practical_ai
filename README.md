@@ -21,6 +21,10 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Session 1: Penalized Regression
 
+![Trace plot for a simple elastic net model.](img/trace.png)
+
+<sub><sup>**Source:** [From GLM to GBM: Building the Case For Complexity](https://nbviewer.org/github/jphall663/interpretable_machine_learning_with_python/blob/master/glm_mgbm_gbm.ipynb).</sup></sub>
+
 ### Session 1 Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1JVTu_mR_wEoFX66mpy5VxckZLSlaPr8D/edit?usp=sharing&ouid=102464801992802063798&rtpof=true&sd=true)
