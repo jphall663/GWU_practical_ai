@@ -58,7 +58,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 11.3 - 11.7
   * Autoencoders:
     * [_Deep Learning_](https://www.deeplearningbook.org/contents/autoencoders.html), Chapter 14
-    * [Reducing the Dimensionality ofData with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
+    * [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
   * Generalized Additive Models (GAMs):
     * [GAMI-Net: An Explainable Neural Network based on Generalized Additive Models with Structured Interactions](https://arxiv.org/pdf/2003.07132)
     * [Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/pdf/2004.13912) 
