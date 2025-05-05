@@ -32,7 +32,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * Assignment 1
   * [Worksheet](https://docs.google.com/document/d/1qwrEl1vztt_NrtCHXQkYrL_C0Ih9PyuU/edit?usp=sharing&ouid=102464801992802063798&rtpof=true&sd=true)
   * [Notebook](https://drive.google.com/file/d/16gq6Bu74DTkIFnaDr3rJp69ebm8Q-1UN/view?usp=sharing)
-* Reading:
+* References:
   * [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 3.1 - 3.4, Section 4.4
   * [Regularization and variable selection via the elastic net](https://hastie.su.domains/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)
 
@@ -54,7 +54,14 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * Assignment 2
   * [Worksheet](https://docs.google.com/document/d/19EuGMlMprcykcJz0cXd6gX19WBv06aHw/edit?usp=sharing)
   * [Notebook](https://drive.google.com/file/d/1GTALUAAdWl2qmJpSquABEzWUz9WNQWH_/view?usp=sharing)
-* Reading: [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 11.3 - 11.7
+* References:
+  * [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 11.3 - 11.7
+  * Autoencoders:
+    * [_Deep Learning_](https://www.deeplearningbook.org/contents/autoencoders.html), Chapter 14
+    * [_Reducing the Dimensionality ofData with Neural Networks_](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
+  * Generalized Additive Models (GAMs):
+    * [_GAMI-Net: An Explainable Neural Network based on Generalized Additive Models with Structured Interactions_](https://arxiv.org/pdf/2003.07132)
+    * [_Neural Additive Models: Interpretable Machine Learning with Neural Nets_](https://arxiv.org/pdf/2004.13912) 
 
 ***
 
