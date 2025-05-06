@@ -79,7 +79,13 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * Assignment 3
   * [Worksheet](https://docs.google.com/document/d/1VU7wprJM_7m28VmVe7R016kyDoPAThlt/edit?usp=sharing)
   * [Notebook](https://drive.google.com/file/d/15UTmI7JhZFQjeilXS84MDiIMKLeRdjPN/view?usp=sharing)
-* Reading: [_Deep Learning_](https://www.deeplearningbook.org/), [Chapter 9](https://www.deeplearningbook.org/contents/convnets.html)
+* References:
+  * [_Deep Learning_](https://www.deeplearningbook.org/), [Chapter 9](https://www.deeplearningbook.org/contents/convnets.html)
+  * LeNet: [Gradient-Based Learning Applied to Document Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=726791)
+  * AlexNet: [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+  * ImageNet (competition): [ImageNet Large Scale Visual Recognition Challenge](https://link.springer.com/article/10.1007/s11263-015-0816-y)
+  * VGGNet: [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556)
+  * ResNet: [Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385)
 
 ***   
 
