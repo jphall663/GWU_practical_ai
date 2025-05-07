@@ -34,7 +34,9 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * [Notebook](https://drive.google.com/file/d/16gq6Bu74DTkIFnaDr3rJp69ebm8Q-1UN/view?usp=sharing)
 * References:
   * [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 3.1 - 3.4, Section 4.4
-  * [Regularization and variable selection via the elastic net](https://hastie.su.domains/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)
+  * Elastic net: [Regularization and variable selection via the elastic net](https://hastie.su.domains/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)
+  * LASSO: [Regression Shrinkage and Selection via the Lasso](https://www.jstor.org/stable/2346178?seq=1)
+  * Computation and `glmnet`: [Regularization Paths for Generalized Linear Models via Coordinate Descent](https://www.jstatsoft.org/article/view/v033i01)
 
 ***
 
