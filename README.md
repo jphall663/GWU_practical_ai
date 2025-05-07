@@ -56,6 +56,11 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * [Notebook](https://drive.google.com/file/d/1GTALUAAdWl2qmJpSquABEzWUz9WNQWH_/view?usp=sharing)
 * References:
   * [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 11.3 - 11.7
+  * [_Deep Learning_](https://www.deeplearningbook.org), [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html)
+  * History:
+    * [The perceptron: A probabilistic model for information storage and organization in the brain](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)
+    * [Perceptrons: An Introduction to Computational Geometry](https://direct.mit.edu/books/monograph/3132/PerceptronsAn-Introduction-to-Computational)
+    * [Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
   * Autoencoders:
     * [_Deep Learning_](https://www.deeplearningbook.org/contents/autoencoders.html), Chapter 14
     * [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
