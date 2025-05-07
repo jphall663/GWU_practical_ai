@@ -13,7 +13,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Preliminary Materials
 
- * [Syllabus]()
+ * [Syllabus](https://docs.google.com/document/d/1msxf4_n9G3g5ejwvtE112FuW2a4UMo6b0ukgS8V0rA8/edit?usp=sharing)
  * [Basic Data Manipulation](https://github.com/jphall663/GWU_data_mining/blob/master/01_basic_data_prep/01_basic_data_prep.md)
  * [Primer on Technical Malpractice](https://docs.google.com/presentation/d/1cZeaoIp4cQsVY_gj2a5Pg7ygexepQZRS-ZEn6n2QqEU/edit?usp=sharing)
  * [Whiteboard Notation](https://docs.google.com/presentation/d/1Axf9dizaE3XvGRelBHfsnAlMUPFuMExQ2WNVwQBKMrw/edit?usp=sharing)
@@ -32,8 +32,8 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * Assignment 1
   * [Worksheet](https://docs.google.com/document/d/1qwrEl1vztt_NrtCHXQkYrL_C0Ih9PyuU/edit?usp=sharing&ouid=102464801992802063798&rtpof=true&sd=true)
   * [Notebook](https://drive.google.com/file/d/16gq6Bu74DTkIFnaDr3rJp69ebm8Q-1UN/view?usp=sharing)
-* Reading:
-  * [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/), Sections 3.1 - 3.4, Section 4.4
+* References:
+  * [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 3.1 - 3.4, Section 4.4
   * [Regularization and variable selection via the elastic net](https://hastie.su.domains/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)
 
 ***
@@ -46,11 +46,29 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Session 2 Materials
 
-* [Lecture Notes]()
-* [Software Example]()
-* [Assignment 2]()
-* Reading: 
-  
+* [Lecture Notes](https://docs.google.com/presentation/d/1-XweHER3tbVwQFuRxX3mAHol5QYGQpJI/edit?usp=sharing)
+* Software Examples:
+  * [MLP with simple gradient descent on Sonar data](https://drive.google.com/file/d/1qlw81JovHGBq-ShnxlBAZzEriRSjpEsL/view?usp=sharing)
+  * [MLP with simple gradient descent on Iris data](https://github.com/jphall663/GWU_data_mining/blob/master/05_neural_networks/src/py_part_5_basic_mlp_example.ipynb)
+  * [MNIST Autoencoder Usage Example](https://github.com/jphall663/GWU_data_mining/blob/master/05_neural_networks/src/py_part_5_MNIST_autoencoder.ipynb)
+* Assignment 2
+  * [Worksheet](https://docs.google.com/document/d/19EuGMlMprcykcJz0cXd6gX19WBv06aHw/edit?usp=sharing)
+  * [Notebook](https://drive.google.com/file/d/1GTALUAAdWl2qmJpSquABEzWUz9WNQWH_/view?usp=sharing)
+* References:
+  * [_Elements of Statistical Learning_](https://hastie.su.domains/ElemStatLearn/), Sections 11.3 - 11.7
+  * [_Deep Learning_](https://www.deeplearningbook.org), [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html)
+  * History:
+    * [The perceptron: A probabilistic model for information storage and organization in the brain](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)
+    * [Perceptrons: An Introduction to Computational Geometry](https://direct.mit.edu/books/monograph/3132/PerceptronsAn-Introduction-to-Computational)
+    * [Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
+  * Autoencoders:
+    * [_Deep Learning_](https://www.deeplearningbook.org), [Chapter 14](https://www.deeplearningbook.org/contents/autoencoders.html)
+    * [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
+  * Generalized Additive Models (GAMs):
+    * [GAMI-Net: An Explainable Neural Network based on Generalized Additive Models with Structured Interactions](https://arxiv.org/pdf/2003.07132)
+    * [Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/pdf/2004.13912)
+  * Feature Encoding: [Entity Embeddings of Categorical Variables](https://arxiv.org/pdf/1604.06737) 
+
 ***
 
 ## Session 3: ANNs for Computer Vision
@@ -61,21 +79,35 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Session 3 Materials
 
-* [Lecture Notes]()
-* [Software Example]()
-* [Assignment 3]()
-* Reading: 
+* [Lecture Notes](https://docs.google.com/presentation/d/1SSYBn3WrEGh9fM5e4LuQsxr_ALYxdyuv/edit?usp=sharing)
+* [Software Example](https://drive.google.com/file/d/17lXz7t8YQcoqT0TRm1TAyyWV-yAvz2R_/view?usp=sharing)
+* Assignment 3
+  * [Worksheet](https://docs.google.com/document/d/1VU7wprJM_7m28VmVe7R016kyDoPAThlt/edit?usp=sharing)
+  * [Notebook](https://drive.google.com/file/d/15UTmI7JhZFQjeilXS84MDiIMKLeRdjPN/view?usp=sharing)
+* References:
+  * [_Deep Learning_](https://www.deeplearningbook.org/), [Chapter 9](https://www.deeplearningbook.org/contents/convnets.html)
+  * LeNet: [Gradient-Based Learning Applied to Document Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=726791)
+  * AlexNet: [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+  * ImageNet (competition): [ImageNet Large Scale Visual Recognition Challenge](https://link.springer.com/article/10.1007/s11263-015-0816-y)
+  * VGGNet: [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556)
+  * ResNet: [Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385)
 
 ***   
 
 ## Session 4: Large Language Models
 
+![An illustration of retrieval augmented generation (RAG).](img/rag.png)
+
+<sub><sup>An illustration of retrieval augmented generation (RAG). **Source:** Session 4 notes.</sup></sub>
+
 ### Session 4 Materials
 
-* [Lecture Notes]()
-* [Software Example]()
-* [Assignment 4]()
-* Reading:
+* [Lecture Notes](https://docs.google.com/presentation/d/1nFoo5lRV0B8mT50l0KYYvKPQLuf0F5pA/edit?usp=sharing)
+* [Software Example](https://drive.google.com/drive/folders/1RYp-8NrfFertcqOmrq9KHcUQY9lC_Mg4?usp=sharing)
+* **Assignment 4**
+  * **Worksheet**
+  * **Notebook** 
+* **Reading**
 
 ***
 
