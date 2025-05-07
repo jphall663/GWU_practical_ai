@@ -62,7 +62,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
     * [Perceptrons: An Introduction to Computational Geometry](https://direct.mit.edu/books/monograph/3132/PerceptronsAn-Introduction-to-Computational)
     * [Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
   * Autoencoders:
-    * [_Deep Learning_](https://www.deeplearningbook.org/contents/autoencoders.html), Chapter 14
+    * [_Deep Learning_](https://www.deeplearningbook.org), [Chapter 14](https://www.deeplearningbook.org/contents/autoencoders.html)
     * [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
   * Generalized Additive Models (GAMs):
     * [GAMI-Net: An Explainable Neural Network based on Generalized Additive Models with Structured Interactions](https://arxiv.org/pdf/2003.07132)
