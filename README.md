@@ -107,7 +107,13 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * **Assignment 4**
   * **Worksheet**
   * **Notebook** 
-* **Reading**
+* References:
+  * Term embedding: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)
+  * Sequence-to-sequence learning and attention: [Sequence to Sequence Learning with Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2014/file/5a18e133cbf9f257297f410bb7eca942-Paper.pdf)
+  * Transformers and attention: [Attention is All You Need](https://arxiv.org/pdf/1706.03762)
+  * GPT-2: [Language Models Are Unsupervised Multitask Learners](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf )
+  * GPT-3 and in-context learning: [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+  * Retrieval augmented generation: [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 
 ***
 
