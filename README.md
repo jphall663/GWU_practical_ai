@@ -107,9 +107,9 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1nFoo5lRV0B8mT50l0KYYvKPQLuf0F5pA/edit?usp=sharing)
 * [Software Example](https://drive.google.com/drive/folders/1RYp-8NrfFertcqOmrq9KHcUQY9lC_Mg4?usp=sharing)
-* **Assignment 4**
-  * **Worksheet**
-  * **Notebook** 
+* Assignment 4
+  * [Worksheet](https://docs.google.com/document/d/1_EcS0IiOWPKakBQF76KxY_Fo3hJ6jpcm/edit?usp=sharing&ouid=102464801992802063798&rtpof=true&sd=true)
+  * [Notebook](https://colab.research.google.com/drive/1stRJyIa9PyZ190qc0lZsC9v8uXSQmS1Z?usp=sharing) 
 * References:
   * Term embedding: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)
   * Long-short term memory (LSTM): [Sequence to Sequence Learning with Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2014/file/5a18e133cbf9f257297f410bb7eca942-Paper.pdf)
