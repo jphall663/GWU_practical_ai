@@ -94,6 +94,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * ImageNet (competition): [ImageNet Large Scale Visual Recognition Challenge](https://link.springer.com/article/10.1007/s11263-015-0816-y)
   * VGGNet: [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556)
   * ResNet: [Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385)
+  * ViT: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
 ***   
 
